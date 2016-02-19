@@ -1,0 +1,11 @@
+clc;
+imwrite(imread('1.jpg'),'./data/juthika/1.pgm');
+imwrite(imread('2.jpg'),'./data/juthika/2.pgm');
+imwrite(imread('3.jpg'),'./data/juthika/3.pgm');
+imwrite(imread('4.jpg'),'./data/juthika/4.pgm');
+imwrite(imread('5.jpg'),'./data/juthika/5.pgm');
+imwrite(imread('6.jpg'),'./data/juthika/6.pgm');
+imwrite(imread('7.jpg'),'./data/juthika/7.pgm');
+imwrite(imread('8.jpg'),'./data/juthika/8.pgm');
+imwrite(imread('9.jpg'),'./data/juthika/9.pgm');
+imwrite(imread('10.jpg'),'./data/juthika/10.pgm');
